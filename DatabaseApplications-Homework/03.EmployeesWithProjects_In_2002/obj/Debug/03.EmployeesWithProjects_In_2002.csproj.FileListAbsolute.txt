@@ -1,0 +1,12 @@
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\03.EmployeesWithProjects_In_2002\bin\Debug\03.EmployeesWithProjects_In_2002.exe.config
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\03.EmployeesWithProjects_In_2002\bin\Debug\03.EmployeesWithProjects_In_2002.exe
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\03.EmployeesWithProjects_In_2002\bin\Debug\03.EmployeesWithProjects_In_2002.pdb
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\03.EmployeesWithProjects_In_2002\bin\Debug\EntityFramework.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\03.EmployeesWithProjects_In_2002\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\03.EmployeesWithProjects_In_2002\bin\Debug\UsingSoftuniDb.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\03.EmployeesWithProjects_In_2002\bin\Debug\UsingSoftuniDb.pdb
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\03.EmployeesWithProjects_In_2002\bin\Debug\EntityFramework.xml
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\03.EmployeesWithProjects_In_2002\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\03.EmployeesWithProjects_In_2002\obj\Debug\03.EmployeesWithProjects_In_2002.exe
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\03.EmployeesWithProjects_In_2002\obj\Debug\03.EmployeesWithProjects_In_2002.pdb
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\03.EmployeesWithProjects_In_2002\obj\Debug\03.EmployeesWithProjects_In_2002.csprojResolveAssemblyReference.cache

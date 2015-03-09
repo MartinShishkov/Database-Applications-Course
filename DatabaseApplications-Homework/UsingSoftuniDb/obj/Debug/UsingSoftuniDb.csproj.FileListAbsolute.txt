@@ -1,0 +1,10 @@
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\UsingSoftuniDb\bin\Debug\UsingSoftuniDb.dll.config
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\UsingSoftuniDb\bin\Debug\UsingSoftuniDb.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\UsingSoftuniDb\bin\Debug\UsingSoftuniDb.pdb
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\UsingSoftuniDb\bin\Debug\EntityFramework.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\UsingSoftuniDb\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\UsingSoftuniDb\bin\Debug\EntityFramework.xml
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\UsingSoftuniDb\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\UsingSoftuniDb\obj\Debug\UsingSoftuniDb.csprojResolveAssemblyReference.cache
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\UsingSoftuniDb\obj\Debug\UsingSoftuniDb.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\UsingSoftuniDb\obj\Debug\UsingSoftuniDb.pdb

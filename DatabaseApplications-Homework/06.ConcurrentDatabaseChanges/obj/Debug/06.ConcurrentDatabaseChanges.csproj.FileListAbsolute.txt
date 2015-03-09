@@ -1,0 +1,12 @@
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\06.ConcurrentDatabaseChanges\bin\Debug\06.ConcurrentDatabaseChanges.exe.config
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\06.ConcurrentDatabaseChanges\bin\Debug\06.ConcurrentDatabaseChanges.exe
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\06.ConcurrentDatabaseChanges\bin\Debug\06.ConcurrentDatabaseChanges.pdb
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\06.ConcurrentDatabaseChanges\bin\Debug\EntityFramework.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\06.ConcurrentDatabaseChanges\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\06.ConcurrentDatabaseChanges\bin\Debug\UsingSoftuniDb.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\06.ConcurrentDatabaseChanges\bin\Debug\UsingSoftuniDb.pdb
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\06.ConcurrentDatabaseChanges\bin\Debug\EntityFramework.xml
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\06.ConcurrentDatabaseChanges\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\06.ConcurrentDatabaseChanges\obj\Debug\06.ConcurrentDatabaseChanges.csprojResolveAssemblyReference.cache
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\06.ConcurrentDatabaseChanges\obj\Debug\06.ConcurrentDatabaseChanges.exe
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\06.ConcurrentDatabaseChanges\obj\Debug\06.ConcurrentDatabaseChanges.pdb

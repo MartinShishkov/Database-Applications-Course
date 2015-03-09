@@ -1,0 +1,12 @@
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\02.DAO_Class\bin\Debug\02.DAO_Class.exe.config
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\02.DAO_Class\obj\Debug\02.DAO_Class.csprojResolveAssemblyReference.cache
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\02.DAO_Class\bin\Debug\02.DAO_Class.exe
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\02.DAO_Class\bin\Debug\02.DAO_Class.pdb
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\02.DAO_Class\bin\Debug\EntityFramework.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\02.DAO_Class\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\02.DAO_Class\bin\Debug\UsingSoftuniDb.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\02.DAO_Class\bin\Debug\UsingSoftuniDb.pdb
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\02.DAO_Class\bin\Debug\EntityFramework.xml
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\02.DAO_Class\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\02.DAO_Class\obj\Debug\02.DAO_Class.exe
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\02.DAO_Class\obj\Debug\02.DAO_Class.pdb

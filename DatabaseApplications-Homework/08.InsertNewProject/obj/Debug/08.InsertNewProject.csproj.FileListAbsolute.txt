@@ -1,0 +1,12 @@
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\08.InsertNewProject\bin\Debug\08.InsertNewProject.exe.config
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\08.InsertNewProject\bin\Debug\08.InsertNewProject.exe
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\08.InsertNewProject\bin\Debug\08.InsertNewProject.pdb
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\08.InsertNewProject\bin\Debug\EntityFramework.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\08.InsertNewProject\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\08.InsertNewProject\bin\Debug\UsingSoftuniDb.dll
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\08.InsertNewProject\bin\Debug\UsingSoftuniDb.pdb
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\08.InsertNewProject\bin\Debug\EntityFramework.xml
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\08.InsertNewProject\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\08.InsertNewProject\obj\Debug\08.InsertNewProject.csprojResolveAssemblyReference.cache
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\08.InsertNewProject\obj\Debug\08.InsertNewProject.exe
+c:\users\codebreaker\documents\visual studio 2013\Projects\DatabaseApplications-Homework\08.InsertNewProject\obj\Debug\08.InsertNewProject.pdb
